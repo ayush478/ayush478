@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning React, Node.js.
 - 🥅 2021 Goals: Want to grab a good Internship.
-- ⚡ Fun fact: Fun fact I think I can sing.😂🤣
+- ⚡ Fun fact:  I think I can sing.😂🤣
 
 ### Spotify Playing 🎧
 
