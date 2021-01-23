@@ -28,9 +28,10 @@
 ---
 
 <details>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush478&theme=light&hide_langs_below=1" />
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Ayush Sunariya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ayush478&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img align="left" alt="Ayush Sunariya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ayush478&show_icons=true&theme=light&line_height=27" />
 
 </details>
 
