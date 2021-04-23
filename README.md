@@ -33,6 +33,15 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ayush478&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush478&hide=TeX&layout=compact)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ayush478&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ayush478&layout=compact&theme=material-palenight" />
+</a>
+
+
 
 [youtube]: https://www.youtube.com/channel/UC3R6QieKf5pRhVe3QimgQhw
 [instagram]: https://www.instagram.com/_mr.ayush47/
