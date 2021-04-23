@@ -31,13 +31,8 @@
 
 ---
 
-<details>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush478&theme=light" />
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Ayush Sunariya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ayush478&show_icons=true&theme=light&line_height=27" />
-
-</details>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ayush478&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush478&hide=TeX&layout=compact)
 
 [youtube]: https://www.youtube.com/channel/UC3R6QieKf5pRhVe3QimgQhw
 [instagram]: https://www.instagram.com/_mr.ayush47/
