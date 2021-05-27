@@ -44,8 +44,8 @@
 
 <p align="center">
 <a href="https://github.com/Yola21">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayush478&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayush478&layout=compact&langs_count=8&theme=material-palenight"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayush478&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayush478&layout=compact&langs_count=8&theme=material-palenight"/>
 </a>
 </p>
 
