@@ -1,6 +1,6 @@
 <h1 align="Center">  Hi, There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Ayush <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
-## I'm a Full Stack Web Developer, Android Developer!! ,Currently i am pursuing Btech from National Institute of Technology, Hamirpur. 👨‍🎓.
+## I'm a Full Stack Web Developer and Android Developer, Currently, I am pursuing B.tech from the National Institute of Technology, Hamirpur 👨‍🎓.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush478&label=Profile%20views&color=0e75b6&style=flat" alt="ayush478" /> </p>
