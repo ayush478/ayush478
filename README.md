@@ -55,7 +55,7 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/ayush-sunariya-3612301b4"><img src="https://img.shields.io/badge/-Ayush%20Sunariya-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ayushprajapati814@gmail.com"><img src="https://img.shields.io/badge/-ayushprajapati814@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:ayushprajapati47@gmail.com"><img src="https://img.shields.io/badge/-ayushprajapati47@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/_mr.ayush47/"><img src="https://img.shields.io/badge/-_mr.ayush47-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/ayush.sunariya.9/"><img src="https://img.shields.io/badge/-Ayush Sunariya-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
