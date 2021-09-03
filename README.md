@@ -3,7 +3,7 @@
 ## I'm a Full Stack Web Developer and Android Developer, Currently, I am pursuing B.tech from the National Institute of Technology, Hamirpur 👨‍🎓.
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayush478&label=Profile%20views&color=0e75b6&style=flat" alt="ayush478" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush478&label=Profile%20views&color=0e75b6&style=flat" alt="ayush478" /> </p>
 
 
 - 🌱 I’m currently learning React, Node.js.
