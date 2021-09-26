@@ -47,7 +47,7 @@
 </p>
 <div>
   
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ayush478&theme=radical" width="44%"  align="left">
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ayush478&theme=material-palenight" width="44%"  align="left">
 <img src="https://activity-graph.herokuapp.com/graph?username=ayush478&theme=xcode" width="50%" align="left">
 
  </div>
