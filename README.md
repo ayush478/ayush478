@@ -33,7 +33,7 @@
 
 
 
-<br />
+
 
 ---
 ### ⚙️ &nbsp;GitHub Analytics
@@ -45,10 +45,16 @@
 </a>
  
 </p>
- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush478&" alt="ayush478" /></p>
+<div>
+  
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ayush478&theme=radical" width="44%"  align="left">
+<img src="https://activity-graph.herokuapp.com/graph?username=ayush478&theme=xcode" width="50%" align="left">
 
+ </div>
 
-
+<br />
+<br />
+<br />
 ---
 ### 🤝🏻 &nbsp;Connect with Me
 
