@@ -7,7 +7,7 @@
 
 
 - 🌱 I’m currently learning React, Node.js.
-- 🥅 2021 Goals: Want to grab a good Internship.
+- 🥅 2022 Goals: Want to grab a good Internship.
 
 <!-- <br /> -->
 
