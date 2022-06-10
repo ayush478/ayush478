@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="" alt="Ayush Sunariya" />
+  <img src="https://github.com/ayush478/ayush478/blob/master/name.svg" alt="Ayush Sunariya" />
 </h1>
 
 ## Hey! 👋
