@@ -1,5 +1,8 @@
-<h1 align="Center">  Hi, There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Ayush <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
+<h1 align="center">
+  <img src="" alt="Marton Lederer" />
+</h1>
 
+## Hey! 👋
 ## I'm a Full Stack Web Developer and Android Developer, Currently, I am pursuing B.tech from the National Institute of Technology, Hamirpur 👨‍🎓.
 
 
