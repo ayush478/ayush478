@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="" alt="Marton Lederer" />
+  <img src="" alt="Ayush Sunariya" />
 </h1>
 
 ## Hey! 👋
