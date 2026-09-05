@@ -31,14 +31,14 @@ public class Ayush {
 
 **🔭 What I'm building**
 
-Async, event-driven services in Java/Spring Boot that keep heavy computation off the request path — replay-safe data sync with checkpointed cursors and idempotent writes at scale.
+Backend services that stay fast and correct under load — async processing that keeps heavy work off the request path, and data flows designed so retries are safe.
 
 </td>
 <td width="50%" valign="top">
 
-**🤖 What I shipped**
+**🤖 What I work on**
 
-LLM-backed classification that automates a large share of manual operational triage, using confidence-thresholded routing that falls back silently to humans when the model isn't sure.
+Bringing LLMs into real product workflows, along with the caching, queuing and observability that keep those systems dependable once they hit production traffic.
 
 </td>
 </tr>
@@ -127,30 +127,30 @@ LLM-backed classification that automates a large share of manual operational tri
 
 <table>
 <tr>
-<td width="150" valign="top">
+<td width="160" valign="top">
 
-**Tripjack**
+**Tripjack**<br/>
 <sub>May 2026 – Present</sub>
 
 </td>
 <td valign="top">
 
-**Software Engineer** · New Delhi
-<sub>LLM-based intent classification for booking amendments · async revenue enrichment layer in Java/Spring Boot</sub>
+**Software Engineer** &nbsp;·&nbsp; New Delhi<br/>
+<sub>Backend services for post-booking workflows — applying LLMs to operational routing, and async processing layers that keep computation off the request path.</sub>
 
 </td>
 </tr>
 <tr>
-<td width="150" valign="top">
+<td width="160" valign="top">
 
-**InfoEdge**
+**InfoEdge**<br/>
 <sub>Jan 2024 – Apr 2026</sub>
 
 </td>
 <td valign="top">
 
-**Software Engineer** · Noida
-<sub>Async document-ingestion pipeline on RabbitMQ at 10K+/day · Redis-backed SSR cache with circuit breaker at 100K DAU · idempotent payment refund automation · legacy monolith migrated to LoopBack 4 microservices</sub>
+**Software Engineer** &nbsp;·&nbsp; Noida<br/>
+<sub>Async ingestion pipelines, caching layers for high-traffic pages, resilient payment automation, and migration of legacy services onto a modern microservice stack.</sub>
 
 </td>
 </tr>
